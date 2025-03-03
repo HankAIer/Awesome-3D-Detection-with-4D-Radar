@@ -6,15 +6,20 @@
 
 ## Overview
 
-- [Datasets](#Datasets)
-- [SOTA Papers](#SOTA-Papers)
-  - [From 4D Radar  (Point Cloud&Radar Tensor)](#From-4D-Radar-(Point-Cloud&Radar-Tensor))
-  - [Fusion of 4D Radar & LiDAR](#Fusion-of-4D-Radar-&-LiDAR)
-  - [Fusion of 4D Radar & RGB Camera](#Fusion-of-4D-Radar-&-RGB-Camera)
-  - [Others](#Others)
-- [Survey Papers](#Survey-Papers)
-- [Basic Knowledge](#Basic-Knowledge)
-- [Representative researchers](#Representative-researchers)
+- [Awesome-3D-Detection-with-4D-Radar](#awesome-3d-detection-with-4d-radar)
+  - [Overview](#overview)
+  - [Datasets](#datasets)
+  - [SOTA Papers](#sota-papers)
+    - [From 4D Radar (Point Cloud\&Radar Tensor)](#from-4d-radar-point-cloudradar-tensor)
+    - [Fusion of 4D Radar \& LiDAR](#fusion-of-4d-radar--lidar)
+    - [Fusion of 4D Radar \& RGB Camera](#fusion-of-4d-radar--rgb-camera)
+    - [Others](#others)
+  - [Survey Papers](#survey-papers)
+  - [Basic Knowledge](#basic-knowledge)
+    - [What is 3D Object Detection with 4D Radar?](#what-is-3d-object-detection-with-4d-radar)
+    - [Different 4D Radar Data Representations](#different-4d-radar-data-representations)
+    - [Other Materials](#other-materials)
+  - [Representative researchers](#representative-researchers)
 
 ## Datasets
 
@@ -273,6 +278,12 @@
 
     ![image-20250224140921607](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250224140921607.png)
 
+12. **V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection (25'CVPR)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2411.08402) [code](https://github.com/ylwhxht/V2X-R)
+    - **:school:Affiliation:** Xiamen University (Xun Huang)
+    - **:file_folder:Dataset:** V2X-R
+    - **:book:Note:**
 
 
 
