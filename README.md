@@ -201,7 +201,12 @@
 
     ![image-20250225104437407](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250225104437407.png)
 
-
+26. **RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar (Neurips 24)**
+       - **:link:Link:** [paper](https://arxiv.org/abs/2405.14014) [code](https://github.com/toytiny/radarocc)
+       - **:school:Affiliation:** University of Edinburgh (Fangqiang Ding)
+       - **:file_folder:Dataset:** K-Radar
+       - **:book:Note:**
+27. 
 
 
 ### Fusion of 4D Radar & LiDAR
@@ -406,6 +411,9 @@
    -  **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/10477463) 
    -  **:school:Affiliation:** Beijing Institute of Technology (Lili Fan)
 3. **A Survey of Deep Learning Based Radar and Vision Fusion for 3D Object Detection in Autonomous Driving (24'arXiv)**
+   - **:link:Link:** [paper](https://arxiv.org/abs/2406.00714)
+4. **Reviewing 3D Object Detectors in the Context of High-Resolution 3+1D Radar**
+   - **:link:Link:** [paper](https://arxiv.org/abs/2308.05478)
 
    waiting for updates....................
 
