@@ -254,7 +254,7 @@
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** "Although lidar should not be used during inference, it can aid the training of radar-only object detectors." 
    
-9. **V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion (24'arXiv)**
+9. **V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion (25'CVPR)**
    - **:link:Link:** [paper](https://arxiv.org/pdf/2411.08402) [code](https://github.com/ylwhxht/V2X-R)
    - **:school:Affiliation:**  Xiamen University (Chenglu Wen)
    - **:file_folder:Dataset:** V2X-R
@@ -277,13 +277,6 @@
     - **:book:Note:** 
 
     ![image-20250224140921607](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250224140921607.png)
-
-12. **V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection (25'CVPR)**
-
-    - **:link:Link:** [paper](https://arxiv.org/pdf/2411.08402) [code](https://github.com/ylwhxht/V2X-R)
-    - **:school:Affiliation:** Xiamen University (Xun Huang)
-    - **:file_folder:Dataset:** V2X-R
-    - **:book:Note:**
 
 
 
