@@ -37,7 +37,7 @@
 |       V2X-R        |              4D Radar,LiDAR, Camera (simulated)              |     PC      |  24'arXiv  |        3D bbox        | [github](https://github.com/ylwhxht/V2X-R) [paper](https://arxiv.org/pdf/2411.08402) | V2X-R contains 12,079 scenarios with 37,727 frames of LiDAR and 4D radar point clouds, 150,908 images |
 |   OmniHD-Scenes    |              6 4D Radars, LiDAR, 6 Cameras, IMU              |     PC      |  24'arXiv  | 3D bbox, TrackID, OCC | [website](https://www.2077ai.com/OmniHD-Scenes) [paper](https://arxiv.org/pdf/2412.10734) |         totaling more than 450K synchronized frames          |
 |  MAN TruckScenes   |        6 4D Radars, 4 Cameras, 6 LiDAR, 1 GNSS, 2 IMU        |     PC      |  24'arXiv  |            3D bbox           | [paper](https://arxiv.org/pdf/2407.07462v2) | Bounding boxes are available for 27 object classes, 15 attributes, and a range of more than 230 m. |
-
+|     V2X-Radar      | 4D Radar, LiDAR, Cameras (3 for Infra, 1 for Vehicle) GPS/IMU|     PC      |  24'arXiv  |        3D bbox        | [website](http://www.openmpd.com/column/V2X-Radar) [paper](https://arxiv.org/abs/2411.10962) | 20K LiDAR frames, 40K camera images, and 20K 4D Radar data, with 350K annotated bounding boxes across five categories. |
 ## SOTA Papers
 
 ### From 4D Radar (Point Cloud&Radar Tensor)
