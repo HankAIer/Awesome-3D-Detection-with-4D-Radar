@@ -49,7 +49,7 @@
    - **:book:Note:** 
    
 2. **Multi-class road user detection with 3+1D radar in the View-of-Delft dataset (22'RA-L)** 
-   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9699098)
+   - **:link:Link:** [paper](https://ieeexplore.ieee.org/abstract/document/9699098) [code](https://github.com/tudelft-iv/view-of-delft-dataset)
    - **:school:Affiliation:** 
    - **:file_folder:Dataset:** VoD
    - **:book:Note:** baseline of VoD
@@ -178,7 +178,7 @@
     - **:book:Note:** The teacher is a Lidar-Radar bi-modality fusion network, while the student is a radaronly network. By the effective knowledge distillation of the teacher, the student can learn to extract sophisticated feature from the radar input and boost its detection performance.
 
 23. **RadarNeXt: Real-Time and Reliable 3D Object Detector Based On 4D mmWave Imaging Radar (25'arXiv)**
-    - **:link:Link:** [paper](https://arxiv.org/pdf/2501.02314v1) 
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2501.02314v1)  [code](https://github.com/pay246-git468/radarnext)
     - **:school:Affiliation:** Institute of Deep Perception Technology, JITRI
     - **:file_folder:Dataset:** VoD, TJ4DRadSet
     - **:book:Note:** 
@@ -382,6 +382,10 @@
 
     ![image-20250227101227256](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250227101227256.png)
 
+15. **SpaRc: Sparse Radar-Camera Fusion for 3D Object Detection (24'arXiv)**
+
+    - **:link:Link:** [paper](https://www.arxiv.org/abs/2411.19860v1) [code](https://github.com/phi-wol/sparc)
+    - **:file_folder:Dataset:** nuScenes, TruckScenes
 
 
 
