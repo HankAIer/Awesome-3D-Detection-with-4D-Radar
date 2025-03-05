@@ -288,10 +288,6 @@
     - **:link:Link:** [paper](https://arxiv.org/pdf/2502.06114)
     - **:school:Affiliation:** KAIST (Seung-Hyun Kong)
     - **:file_folder:Dataset:** K-Radar
-    - **:book:Note:** 
-
-    ![image-20250305110419137](C:\Users\liuzengyun\AppData\Roaming\Typora\typora-user-images\image-20250305110419137.png)
-
 
 
 
