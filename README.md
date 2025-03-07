@@ -200,6 +200,15 @@
     - **:book:Note:** 
 
     ![image-20250225104437407](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250225104437407.png)
+    
+26. **Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds? (25'arXiv)**
+
+    - **:link:Link:** [paper](https://arxiv.org/pdf/2503.02687)
+    - **:school:Affiliation:** Robert Bosch GmbH (Miao Zhang)
+    - **:file_folder:Dataset:** K-Radar, Bosch Street
+    - **:book:Note:** 
+
+    ![image-20250305225138381](https://lzypicstorage.oss-cn-beijing.aliyuncs.com/pic/image-20250305225138381.png)
 
 26. **RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar (Neurips 24)**
        - **:link:Link:** [paper](https://arxiv.org/abs/2405.14014) [code](https://github.com/toytiny/radarocc)
